@@ -1,3 +1,4 @@
+<?php
 $_lang["download"] = "تحميل";
 $_lang["home"] = "الصفحة الرئسية";
 $_lang["status"] = "الحالة";
@@ -84,3 +85,4 @@ $_lang["topic"] = "موضوع";
 $_lang["contact.message.too.short"] = "احرف الرسالة قصيرة جدا . الحد الأدنى 10 حرفا.";
 $_lang["contact.topic.too.short"] = "احرف الموضوع قصيرة جدا . الحد الأدنى 10 حرفا.";
 $_lang["invalid.mail.forgot.password"] = "نحن غير قادرين على العثور على أي حساب مع هذا البريد.";
+$_lang["error.cannot.fetch.steam.api"] = "لا يمكن الحصول على بيانات ملفك الشخصي  من الستيم . حاول مرة أخرى في وقت لاحق.";
