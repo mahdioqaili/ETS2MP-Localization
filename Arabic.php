@@ -1,4 +1,4 @@
-Enter file contents here<?php
+<?php
 $_lang["download"] = "تحميل";
 $_lang["home"] = "الصفحة الرئسية";
 $_lang["status"] = "الحالة";
